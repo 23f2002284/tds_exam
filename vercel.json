@@ -1,5 +1,4 @@
 {
-  "rewrite": [{ "source": "/api/(.*)", "destination": "/api" }],
   "functions": {
     "api/index.py": {
       "runtime": "vercel-python@0.0.6"
